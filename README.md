@@ -1,2 +1,0 @@
-# sibsikasir
-proyek aplikasi kasir
